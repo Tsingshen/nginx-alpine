@@ -1,5 +1,5 @@
 #
-# nginx-alpine whit TZ=Asia/Shanghai and zh_CN.UTF-8
+# nginx-alpine whit TZ=Asia/Shanghai and UTF-8
 # add nginx/default.conf server {autoindex on; autoindex_exact_size off;autoindex_localtime on;}
 #     autoindex on;             #开启索引功能  
 #     autoindex_exact_size off; # 关闭计算文件确切大小（单位bytes），只显示大概大小（单位kb、mb、gb）  
